@@ -1,0 +1,14 @@
+D:\DotNetProject_2017\JWTApi\JWTApi\bin\Debug\netcoreapp2.1\JWTApi.deps.json
+D:\DotNetProject_2017\JWTApi\JWTApi\bin\Debug\netcoreapp2.1\JWTApi.runtimeconfig.json
+D:\DotNetProject_2017\JWTApi\JWTApi\bin\Debug\netcoreapp2.1\JWTApi.runtimeconfig.dev.json
+D:\DotNetProject_2017\JWTApi\JWTApi\bin\Debug\netcoreapp2.1\JWTApi.dll
+D:\DotNetProject_2017\JWTApi\JWTApi\bin\Debug\netcoreapp2.1\JWTApi.pdb
+D:\DotNetProject_2017\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.csprojAssemblyReference.cache
+D:\DotNetProject_2017\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.csproj.CoreCompileInputs.cache
+D:\DotNetProject_2017\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.RazorAssemblyInfo.cache
+D:\DotNetProject_2017\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.RazorAssemblyInfo.cs
+D:\DotNetProject_2017\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.AssemblyInfoInputs.cache
+D:\DotNetProject_2017\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.AssemblyInfo.cs
+D:\DotNetProject_2017\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.RazorTargetAssemblyInfo.cache
+D:\DotNetProject_2017\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.dll
+D:\DotNetProject_2017\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.pdb
